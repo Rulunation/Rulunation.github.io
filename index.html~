@@ -156,7 +156,7 @@
                         <div style='height: 60px; '>
                             <audio controls controlsList="nodownload"
                                 style='display: inline-block; padding:8px; width: 270px; height: 50px '>
-                                <source src="./assets/ANG/PRO-FT.wav" class="img-fluid rounded mx-auto d-block" alt="temp">
+                                <source src="./assets/ANG/PRO_FT.wav" class="img-fluid rounded mx-auto d-block" alt="temp">
                             </audio>
                         </div>
                     </div>
@@ -212,7 +212,7 @@
                         <div style='height: 60px; '>
                             <audio controls controlsList="nodownload"
                                 style='display: inline-block; padding:8px; width: 270px; height: 50px '>
-                                <source src="./assets/FEA/PRO-FT.wav" class="img-fluid rounded mx-auto d-block" alt="temp">
+                                <source src="./assets/FEA/PRO_FT.wav" class="img-fluid rounded mx-auto d-block" alt="temp">
                             </audio>
                         </div>
                     </div>
@@ -267,7 +267,7 @@
                         <div style='height: 60px; '>
                             <audio controls controlsList="nodownload"
                                 style='display: inline-block; padding:8px; width: 270px; height: 50px '>
-                                <source src="./assets/JOY/PRO-FT.wav" class="img-fluid rounded mx-auto d-block" alt="temp">
+                                <source src="./assets/JOY/PRO_FT.wav" class="img-fluid rounded mx-auto d-block" alt="temp">
                             </audio>
                         </div>
                     </div>
@@ -322,7 +322,7 @@
                         <div style='height: 60px; '>
                             <audio controls controlsList="nodownload"
                                 style='display: inline-block; padding:8px; width: 270px; height: 50px '>
-                                <source src="./assets/NOR/PRO-FT.wav" class="img-fluid rounded mx-auto d-block" alt="temp">
+                                <source src="./assets/NOR/PRO_FT.wav" class="img-fluid rounded mx-auto d-block" alt="temp">
                             </audio>
                         </div>
                     </div>
@@ -377,7 +377,7 @@
                         <div style='height: 60px; '>
                             <audio controls controlsList="nodownload"
                                 style='display: inline-block; padding:8px; width: 270px; height: 50px '>
-                                <source src="./assets/SAD/PRO-FT.wav" class="img-fluid rounded mx-auto d-block" alt="temp">
+                                <source src="./assets/SAD/PRO_FT.wav" class="img-fluid rounded mx-auto d-block" alt="temp">
                             </audio>
                         </div>
                     </div>
