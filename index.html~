@@ -81,7 +81,7 @@
                     <p style='line-height:1.3; font-size:large; text-align: justify'>
                     In this letter, we present the state-of-the-art emotional end-to-end (e2e) speech synthesis with 
                     robust emotion conditioning and attention alignment. The previous global style token (GST) based 
-                    emotional speech synthesis approaches \cite{13}, \cite{25} confirmed the feasibility of emotion 
+                    emotional speech synthesis approaches confirmed the feasibility of emotion 
                     conditioning in e2e speech synthesis. However, these approaches eliminate a large amount of valuable
                     non-textual information by compressing the entire reference speech into a single fixed-dimensional vector,
                     causing insufficient emotion conditioning. Moreover, the ongoing issue of unstable alignment in 
